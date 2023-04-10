@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Phuong Duc from UIT with <3
-- 👀 I’m currently a front-end dev
+- 👀 I’m currently front-end dev
 - 🌱 Do my best everyday  
 
 <!---
